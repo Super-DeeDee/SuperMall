@@ -1,9 +1,10 @@
 # supermall
 
-<h1>该程序部分接口已不可使用（已弃置）<h1></br>
+<h1>该程序部分接口已不可使用（已弃置）<h1>
 
-<h2>已完成部分</h2></br>
-<h3>导航</h3></br>
+<h2>已完成部分</h2>
+  
+<h3>导航</h3>
 
 ![navgation](https://user-images.githubusercontent.com/44867694/159683929-1f5c9aee-db54-4dec-8703-b73820057342.png)
 
